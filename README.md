@@ -1,1 +1,1 @@
-# chatbot_Hangman
+I wanted to try making a game that involved for loops so I could get used to them in python. So I decided to make Hangman becuase that was the only game I could think of that would use constant repetition. The entire while loop works by incremening your number of tries while the code ask you to input your letter option.
